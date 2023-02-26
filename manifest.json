@@ -1,5 +1,5 @@
 {
-  "name": "Blutv Altyazi Arkaplani",
+  "name": "Blutv Altyazi Arka Plani",
   "version": "0.1",
   "manifest_version": 3,
   "permissions": [ "activeTab", "scripting"],
