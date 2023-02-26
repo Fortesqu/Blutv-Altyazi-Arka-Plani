@@ -1,4 +1,4 @@
-# Blutv-Altyazi-Arkaplani
+# Blutv-Altyazi-Arka-Plani
 
 1. https://github.com/Fortesqu/Blutv-Altyazi-Arkaplani/archive/refs/tags/v0.1.zip linkine tıklayın ve indirilen arşivdeki klasörü çıkartın.
 2. chrome://extensions/ sayfasına gidin.
