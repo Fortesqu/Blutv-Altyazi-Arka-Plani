@@ -1,0 +1,17 @@
+{
+  "name": "Blutv Altyazi Arkaplani",
+  "version": "1.0",
+  "manifest_version": 3,
+  "permissions": [ "activeTab", "scripting"],
+"host_permissions": [
+    "https://www.blutv.com/*"
+],
+
+  "content_scripts": [
+    {
+      "matches": [ "https://www.blutv.com/*" ],
+      "js": [ "popup.js", "content.js" ]
+    }
+  ]
+  
+}
